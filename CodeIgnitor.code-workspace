@@ -1,0 +1,26 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "projectManager.checkInvalidPathsBeforeListing": false,
+        "projectManager.git.baseFolders": [
+            "/media/mikea/86022EF5022EE9BF/web/repos/CodeIgnitor"
+        ],
+        "projectManager.vscode.baseFolders": [
+            "/media/mikea/86022EF5022EE9BF/web/repos/CodeIgnitor"
+        ],
+        "prettier.enable": false,
+        "gitlens.showWelcomeOnInstall": false
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+
+            }
+        ]
+    }
+}
